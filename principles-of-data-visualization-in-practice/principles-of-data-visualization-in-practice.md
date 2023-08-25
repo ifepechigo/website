@@ -1,8 +1,11 @@
 ---
 
-| title | description | keywords | date | weight | aliases |
-|-------|-------|-------|-------|-------|-------|
-Principles of Data Visualization in Practice | In Data analysis it is inherent to visualize data. Learn the most common practices and principles of data visualization | data, visualization, analysis | 2023-08-25 | 9 | learn/guidelines-to-good-visualization
+title: "Principles of Data Visualization in Practice"
+description: "In Data analysis, it is inherent to visualize data. Learn the most common practices and principles of data visualization"
+keywords: "data, visualization, analysis"
+date: 2023-08-25
+weight: 8
+aliases: -/learn/guidelines-to-good-visualization
 
 ---
 
