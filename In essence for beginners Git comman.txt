@@ -1,0 +1,12 @@
+In essence for beginners Git commands
+
+git init - to initialise the repository
+git add . - to add all files in the staging area
+git commit -m "" - to save those changes in the repository
+git log --oneline - to view the log time etc in one line.
+git remote add origin "url"
+git push -u origin master
+
+git status
+git branch branchname
+git checkout - to switch between branches 
